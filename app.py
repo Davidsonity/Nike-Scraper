@@ -68,8 +68,7 @@ def search(keyword):
 st.header('Nike Scraper')
 
 st.image(
-    'https://www.snipes.it/on/demandware.static/-/Library-Sites-snse-global/default/dwa575dc97/images/General_Header/B'
-    'rands/Snipes_OS_Logo_Header_NikeBasketball.jpg'
+    'https://user-images.githubusercontent.com/96771321/214847562-27b85c11-2848-4426-a517-4fb6e4c84847.png'
 )
 
 st.markdown('Items from nike.com')
