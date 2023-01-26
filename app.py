@@ -77,5 +77,4 @@ word = st.text_input('SEARCH: ')
 if word != '':
     if st.button('Search'):
         data_ = search(word)
-        st.markdown('scraping data please wait')
         st.dataframe(data=data_)
