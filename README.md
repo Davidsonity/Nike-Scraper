@@ -4,7 +4,7 @@
 
 ### INTRODUCTION
 #### Objectives
-The objective of this project is to build a web scraper to get the search results of items in nike.com.
+The objective of this project is to build a web scraper to get the search results of an item in nike.com.
 #### Data Scraping
 The data was scraped from https://www.nike.com/ using Beautiful Soup and Requests. Features scraped from the websites are:
 
